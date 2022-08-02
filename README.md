@@ -2,7 +2,9 @@
 
  <div align=center>
  
-  ### _If all you have is a hammer, all your problems look like nails._<br/>
+ 
+ #### 당연한 것들을 당연하지 않게 보여주는 서비스를 만들고 싶습니다.<br/>
+ ##### 당연한 일상속에서 일탈할 수 있는 서비스를 개발합니다.
 
  
  <br/><br/>
