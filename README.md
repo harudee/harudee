@@ -1,15 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20There👋&fontSize=90&desc=it's%20Hakyung&descAlign=55&descAlignY=65&animation=blink)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20There💃&fontSize=90&desc=it's%20Hakyung&descAlign=55&descAlignY=65&animation=blink)
 
- <div align=center>
- 
- 
- #### 당연한 것들을 당연하지 않게 보여주는 서비스를 만들고 싶습니다.<br/>
- ##### 당연한 일상속에서 일탈할 수 있는 서비스를 개발합니다.
 
- 
  <br/><br/>
  
  ## _✨Introduce✨_ 
+ 
+  당연한 것들을 당연하지 않게 보여주는 서비스를 만들고 싶습니다.<br/>
+  당연한 일상속에서 일탈할 수 있는 서비스를 개발합니다. <br/>
+  끝없는 배움의 끝에 더 나은 개발자가 되어있기를 소망합니다. 
+
+ <br/>
+ 
  ### Hi, My name is Kim HaKyung 
   I have been studying Programming since 2021 <br/>
   Now I'm woriking as an Android app developer.<br/>
@@ -85,6 +86,12 @@ Here are some ideas to get you started:
 -> 해보고 백준 문제해결, 프로그래머스 레벨 추가하기 
 -> 포폴 구글드라이브에 올리고 여기 링크걸기
 
+ <div align=center>
+ 가운데 정렬 태그 </div>
+ 
+ if all you have is hammer then everything looks like a nail
+ 
+ 배우는 것은 지혜롭고, 창조하는 것은 신과 같다 -존 갓프리 삭스 
+
 -->
 
-</div>
