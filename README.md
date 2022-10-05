@@ -7,8 +7,6 @@
 
  ## _✨Introduce✨_ 
  <h4 align="center"> 안녕하세요 harudee입니다 ;^) </h4>
-
- ---
   
   <br/>
  
@@ -56,7 +54,6 @@
 
 
  ## _All Skils_ 
----
 
 <br/>
  <h3 align="center"> ✔ Platform & Languages </h3>
