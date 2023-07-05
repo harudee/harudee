@@ -18,7 +18,7 @@
 
 ## _About Me_
  
-[![티스토리](https://img.shields.io/badge/tistory-DD0031?style=for-the-badge&logoColor=white)](https://harudee.tistory.com) [![노션](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)]()
+[![티스토리](https://img.shields.io/badge/tistory-DD0031?style=for-the-badge&logoColor=white)](https://harudee.tistory.com) [![노션](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://harudee.notion.site/Hakyung-Kim-47a0c20d598a4460afa49baae9a30fb7?pvs=4)
 
 
 <!--
